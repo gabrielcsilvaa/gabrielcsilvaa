@@ -1,6 +1,6 @@
 ## About Me: Gabriel👋
 
-#### 🙋‍♂️ Hi, my name is Gabriel Cardoso da Silva, and I'm a beginner developer studying Systems Analysis and Development at UNINASSAU University. I'm currently working as full stack developer at Office consultancy accounting - Office accounting
+#### 🙋‍♂️ Hi, my name is Gabriel Cardoso da Silva, and I'm a developer studying Systems Analysis and Development at UNINASSAU University. I'm currently working as full stack developer at Office consultancy accounting - Office accounting
 
 
 #### 🚀 I am looking to collaborate and put my knowledge into practice in areas that require creativity and solving challenges no matter the degree
