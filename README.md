@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Assets/CAPA-LINKEDIN_v2.jpg.png"/>
+  <img src="Assets/CAPA-LINKEDIN_v2.jpg"/>
 </p>
 <p align="center">
   <img src="Assets/CAPA-LINKEDIN - ABOUT ME.png"/>
