@@ -4,3 +4,6 @@
 <p align="center">
   <img src="Assets/CAPA-LINKEDIN - ABOUT ME.png"/>
 </p>
+<p align="center">
+  <img src="Assets/3-banner.png"/>
+</p>
