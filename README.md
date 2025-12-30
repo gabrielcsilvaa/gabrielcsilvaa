@@ -3,25 +3,25 @@
 <!-- ===== BANNERS / ARTES ===== -->
 <table align="center" width="100%" style="margin: 0 auto;">
   <tr>
-    <td style="border: 3px solid #00ffc8; border-radius: 10px; padding: 8px; background: #111;">
+    <td style="border: 2px solid #00ffc8; border-radius: 10px; padding: 0px; background: #111;">
       <img src="Assets/CAPA-LINKEDIN_v2.jpg" style="display: block; margin: 0 auto; border-radius: 8px; max-width:100%;" />
     </td>
   </tr>
 
   <tr>
-    <td style="border: 3px solid #00ffc8; border-radius: 10px; padding: 8px; background: #111;">
+    <td style="border: 2px solid #00ffc8; border-radius: 10px; padding: 0px; background: #111;">
       <img src="Assets/CAPA-LINKEDIN - ABOUT ME.png" style="display: block; margin: 0 auto; border-radius: 8px; max-width:100%;" />
     </td>
   </tr>
 
   <tr>
-    <td style="border: 3px solid #00ffc8; border-radius: 10px; padding: 8px; background: #111;">
+    <td style="border: 2px solid #00ffc8; border-radius: 10px; padding: 0px; background: #111;">
       <img src="Assets/3-banner.png" style="display: block; margin: 0 auto; border-radius: 8px; max-width:100%;" />
     </td>
   </tr>
 
   <tr>
-    <td style="border: 3px solid #00ffc8; border-radius: 10px; padding: 8px; background: #111;">
+    <td style="border: 2px solid #00ffc8; border-radius: 10px; padding: 0px; background: #111;">
       <img src="Assets/4-banner (1).png" style="display: block; margin: 0 auto; border-radius: 8px; max-width:100%;" />
     </td>
   </tr>
