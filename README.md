@@ -30,9 +30,7 @@
     </td>
   </tr>
 </table>
-
 <br>
-
 <!-- ===== CONTACT ===== -->
 ## 🌐 Onde me encontrar
 
