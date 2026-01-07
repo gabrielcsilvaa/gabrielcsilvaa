@@ -30,8 +30,10 @@
     </td>
   </tr>
 </table>
+
 <br>
 <!-- ===== CONTACT ===== -->
+
 ## 🌐 Onde me encontrar
 
 <a href="mailto:gabrielcardososilva290@gmail.com">
